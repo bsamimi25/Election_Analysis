@@ -5,7 +5,6 @@
 # 4. Percentage of votes each candidate won
 # 5. The winner of the election based on popular vote 
 # --------------------------------------------------
-
 # Add our dependencies.
 import csv
 import os
@@ -80,20 +79,3 @@ with open(file_to_save, "w") as txt_file:
     print(winning_candidate_summary)
     # Save the winning candidate's results to the text file.
     txt_file.write(winning_candidate_summary)
-# --------------------------------------------------
-
-# Using the with statement open the file as a text file.
-#with open(file_to_save, "w") as txt_file:
-    # write on txt file 
-    #txt_file.write("Arapahoe, ")
-    #txt_file.write("Denver, ")
-    #txt_file.write("Jefferson, ")
-    # or 
-    #txt_file.write("Counties in the Election\n---------\nArapahoe\nDenver\nJefferson\n")
-
-
-
-
-
-
-
