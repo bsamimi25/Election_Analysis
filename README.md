@@ -38,6 +38,9 @@ The analysis of the election show that:
       * TOTAL VOTES= 369,711
 
 * Largest county was Denver 306,055 votes. 
-      
+ 
+ 
+ <img width="539" alt="Screen Shot 2020-08-02 at 6 36 11 PM" src="https://user-images.githubusercontent.com/67808057/89138069-29b19e80-d4ef-11ea-8e97-4cee1cff5aa1.png">
+
 ## Challenge Summary
 This script can me modified for different future purposes by having it run multiple tasks to get a deeper understadning if someone was a campaign manager for a candidate. The first example is that we could look into cities and not just counties. We can go into a more in depth look at which cities hold a significant position in determining if a candidate will the winner of the election. Obviously we would have to gather this data and input it into our election_results.csv file then basically do the same concept as we did for our counties part in this script. The second example on how we can continue and modify this script for future use is that we can see demographics among the different candidates. Age, sex, and ethnicity are three that are significant and in the interest of the candidates to understand which group they need to appeal to more. As stated before, we need to add these inputs into the election_results.csv file in order to begin the script for it. These two examples can be used for future puposes for candidates to see how to win a future election. 
